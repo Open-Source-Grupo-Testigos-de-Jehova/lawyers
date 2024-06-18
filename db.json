@@ -110,5 +110,42 @@
       "email": "ana.sofia@example.com",
       "phoneNumber": "+9988776655"
     }
+  ];
+  "educational-resources": [
+    {
+    "id": 1,
+    "title": "Ethics and Advocacy in Medicine",
+    "description": "This resource offers an overview of the intersection between medical ethics and advocacy. It covers topics such as confidentiality, informed consent, and ethical decision-making in patient care. It includes practical cases to illustrate how medical professionals can advocate for their patients in ethically challenging situations.",
+    "authorsId": 11,
+    "educationalResourceType": "Online Course"
+  },
+  {
+    "id": 2,
+    "title": "Advocacy Manual for Healthcare Professionals",
+    "description": "This manual provides a comprehensive guide on how doctors can actively play a role in advocating for their patients' rights. It includes strategies for patient advocacy in clinical and administrative settings, as well as in public health policy.",
+    "authorsId": 12,
+    "educationalResourceType": "Manual"
+  },
+  {
+    "id": 3,
+    "title": "Advocacy Workshop in Medicine: Practical Skills",
+    "description": "This interactive workshop is designed for doctors and medical students, focusing on developing practical advocacy skills in the medical environment. Participants will learn effective communication techniques, negotiation, and leadership to advocate for their patients effectively.",
+    "authorsId": 13,
+    "educationalResourceType": "In-person/Virtual Workshop"
+  },
+  {
+    "id": 4,
+    "title": "Advocacy and Legislation in Medicine",
+    "description": "This resource explores the relationship between medicine and legislation, including patients' rights, regulation of medical practice, and the role of healthcare professionals in creating and modifying health policies. It provides case studies and analysis of relevant laws.",
+    "authorsId": 14,
+    "educationalResourceType": "Textbook"
+  },
+  {
+    "id": 5,
+    "title": "Medical Advocacy Webinar Series",
+    "description": "A series of webinars addressing various aspects of advocacy in medicine, such as representing vulnerable patients, the impact of advocacy on health policy, and best practices for advocacy in healthcare settings. Includes expert presentations and Q&A sessions.",
+    "authorsId": 15,
+    "educationalResourceType": "Webinars"
+  }
   ]
 }
